@@ -23,7 +23,7 @@ export const Registration = () => {
     defaultValues: {
       fullName: "",
       email: "",
-      password: "vasya",
+      password: "",
     },
     mode: "onChange",
   });
